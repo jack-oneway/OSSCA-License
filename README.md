@@ -54,13 +54,13 @@ OSSCA为从软件、算法到硬件设计、数据集等各类“知识单元”
 ## 资源目录
 
 OSSCA-License/
-├── LICENSE # 协议文本 (V2.1)
-├── LICENSE-EN.md # 协议英文版（待提供）
-├── README.md # 您正在阅读的文件
-├── for-users/ # 给使用者的资源
-│ ├── NOTICE-TEMPLATE.md # 署名声明模板
-│ └── HOW-TO-COMPLY.md # 合规指南
-└── for-sharers/ # 给分享者的资源
-├── LICENSE-EXAMPLE.md # 协议声明示例
-├── PRICING-POLICY-EXAMPLE.md # 商业条款模板
-└── FAQ.md # 常见问题解答
+├── [LICENSE](/LICENSE) # 点击可直接查看协议文本
+├── [LICENSE-EN.md](/LICENSE-EN.md)
+├── **README.md** # 您正在阅读的文件
+├── [for-users/](/for-users/)
+│   ├── [NOTICE-TEMPLATE.md](/for-users/NOTICE-TEMPLATE.md)
+│   └── [HOW-TO-COMPLY.md](/for-users/HOW-TO-COMPLY.md)
+└── [for-sharers/](/for-sharers/)
+    ├── [LICENSE-EXAMPLE.md](/for-sharers/LICENSE-EXAMPLE.md)
+    ├── [PRICING-POLICY-EXAMPLE.md](/for-sharers/PRICING-POLICY-EXAMPLE.md)
+    └── [FAQ.md](/for-sharers/FAQ.md)
