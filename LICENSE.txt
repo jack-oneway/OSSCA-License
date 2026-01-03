@@ -1,0 +1,7 @@
+本项目 [项目名称] 根据《开放共享与商业互惠协议（OSSCA V2.1）》授权。
+
+协议全文请参阅：https://github.com/OSSCA-License/OSSCA-License
+
+商业使用需遵守项目 README 中公示的商业授权条款。
+
+版权所有 (c) [年份] [您的姓名/组织名]
