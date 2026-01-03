@@ -49,6 +49,18 @@ OSSCA为从软件、算法到硬件设计、数据集等各类“知识单元”
 3. 参考 [`for-sharers/FAQ.md`](for-sharers/FAQ.md) 回答常见问题
 
 ## 协议文本
-- [OSSCA V2.1 中文协议全文.md](LICENSE)（主版本）
+- [OSSCA V2.1 中文协议全文](开放共享与商业互惠协议（OSSCA）V2.1.md)（主版本）
 
 ## 资源目录
+
+OSSCA-License/
+├── LICENSE # 协议文本 (V2.1)
+├── LICENSE-EN.md # 协议英文版（待提供）
+├── README.md # 您正在阅读的文件
+├── for-users/ # 给使用者的资源
+│ ├── NOTICE-TEMPLATE.md # 署名声明模板
+│ └── HOW-TO-COMPLY.md # 合规指南
+└── for-sharers/ # 给分享者的资源
+├── LICENSE-EXAMPLE.md # 协议声明示例
+├── PRICING-POLICY-EXAMPLE.md # 商业条款模板
+└── FAQ.md # 常见问题解答
