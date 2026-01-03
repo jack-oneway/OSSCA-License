@@ -49,6 +49,6 @@ OSSCA为从软件、算法到硬件设计、数据集等各类“知识单元”
 3. 参考 [`for-sharers/FAQ.md`](for-sharers/FAQ.md) 回答常见问题
 
 ## 协议文本
-- [OSSCA V2.1 中文协议全文.md](LICENSE)（主版本）
+- [`OSSCA V2.1 中文协议全文.md](LICENSE)（主版本）
 
 ## 资源目录
